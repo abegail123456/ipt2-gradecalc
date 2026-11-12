@@ -5,6 +5,7 @@ It computes a final grade (30% prelim, 30% midterm, 40% finals) and a PASSED/FAI
 
 ## Team
 
+Team Description: Our team works together to develop and improve the Grade Calculator while gaining practical experience in version control, software testing, and CI/CD processes under the guidance of Sir Clyde.
 Team description: We work together as a team to develop and enhance the grade calculator while learning and applying version control, software testing, and CI/CD practices.
 
 | Role | Name | GitHub username |
