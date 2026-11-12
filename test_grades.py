@@ -46,7 +46,7 @@ def test_all_hundred():
 # ---------------------------------------------------------------------
 @pytest.mark.parametrize("final_grade, expected", [
     (74.99, "FAILED"),
-    (75, "PASSED"),
+    (75, "PASED"),
     (75.01, "PASSED"),
     (0, "FAILED"),
     (100, "PASSED"),
