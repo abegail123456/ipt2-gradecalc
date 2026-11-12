@@ -1,5 +1,7 @@
 # ipt2-gradecalc
 
+[![CI](https://github.com/abegail123456/ipt2-gradecalc/actions/workflows/ci.yml/badge.svg)](https://github.com/abegail123456/ipt2-gradecalc/actions/workflows/ci.yml)
+
 A small grade calculator for IT 316 – Integrative Programming and Technologies 2.
 It computes a final grade (30% prelim, 30% midterm, 40% finals) and a PASSED/FAILED remark.
 
